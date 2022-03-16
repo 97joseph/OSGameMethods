@@ -1,0 +1,2 @@
+# OSGameMethods
+ Hamming
